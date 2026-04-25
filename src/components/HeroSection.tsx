@@ -53,9 +53,9 @@ const HeroSection: React.FC = () => {
 
             <div className="md:col-span-8">
               <WordsPullUp
-                text="Prisma"
+                text="Euvouserdoutor"
                 showAsterisk
-                className="block font-medium leading-[0.85] tracking-[-0.07em] text-[26vw] sm:text-[24vw] md:text-[22vw] lg:text-[20vw] xl:text-[19vw] 2xl:text-[20vw]"
+                className="block font-medium leading-[0.85] tracking-[-0.05em] text-[11vw] sm:text-[10vw] md:text-[9vw] lg:text-[8.5vw] xl:text-[8vw] 2xl:text-[8.5vw]"
               />
             </div>
 
